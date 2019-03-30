@@ -1,0 +1,65 @@
+=> [1;34m#(Element:0x12a3324 {[0m
+  name = [31m[1;31m"[0m[31mdiv[1;31m"[0m[31m[0m,
+  attributes = [
+    [1;34m#(Attr:0x135dcd8 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mstudent-card[1;31m"[0m[31m[0m }),
+    [1;34m#(Attr:0x135dcc4 {[0m name = [31m[1;31m"[0m[31mid[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mryan-johnson-card[1;31m"[0m[31m[0m })],
+  children = [
+    [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m            [1;31m"[0m[31m[0m),
+    [1;34m#(Element:0x1364420 {[0m
+      name = [31m[1;31m"[0m[31ma[1;31m"[0m[31m[0m,
+      attributes = [
+        [1;34m#(Attr:0x1369b00 {[0m
+          name = [31m[1;31m"[0m[31mhref[1;31m"[0m[31m[0m,
+          value = [31m[1;31m"[0m[31mstudents/ryan-johnson.html[1;31m"[0m[31m[0m
+          })],
+      children = [
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m              [1;31m"[0m[31m[0m),
+        [1;34m#(Element:0x136c15c {[0m
+          name = [31m[1;31m"[0m[31mdiv[1;31m"[0m[31m[0m,
+          attributes = [
+            [1;34m#(Attr:0x136f834 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mview-profile-div[1;31m"[0m[31m[0m })],
+          children = [
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x1374118 {[0m
+              name = [31m[1;31m"[0m[31mh3[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x13797e4 {[0m
+                  name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mview-profile-text[1;31m"[0m[31m[0m
+                  })],
+              children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mView Profile[1;31m"[0m[31m[0m)]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m              [1;31m"[0m[31m[0m)]
+          }),
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m              [1;31m"[0m[31m[0m),
+        [1;34m#(Element:0x138344c {[0m
+          name = [31m[1;31m"[0m[31mdiv[1;31m"[0m[31m[0m,
+          attributes = [
+            [1;34m#(Attr:0x1382b28 {[0m
+              name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m,
+              value = [31m[1;31m"[0m[31mcard-text-container[1;31m"[0m[31m[0m
+              })],
+          children = [
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x13868b8 {[0m
+              name = [31m[1;31m"[0m[31mh4[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x1389f90 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mstudent-name[1;31m"[0m[31m[0m })],
+              children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mRyan Johnson[1;31m"[0m[31m[0m)]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m                [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x138e5cc {[0m
+              name = [31m[1;31m"[0m[31mp[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x1391c90 {[0m
+                  name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mstudent-location[1;31m"[0m[31m[0m
+                  })],
+              children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31mNew York, NY[1;31m"[0m[31m[0m)]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m              [1;31m"[0m[31m[0m)]
+          }),
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m            [1;31m"[0m[31m[0m)]
+      }),
+    [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m          [1;31m"[0m[31m[0m)]
+  })
