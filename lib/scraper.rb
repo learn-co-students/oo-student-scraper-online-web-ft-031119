@@ -13,8 +13,9 @@ class Scraper
     students = []
 
     student_site.css(".student-card").each do |student|
-      
-      binding.pry
+    name = student.css(".student-name").text
+    location = student.css(".student-location").text
+      #binding.pry
     end
   end
 
